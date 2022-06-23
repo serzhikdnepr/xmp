@@ -7,7 +7,7 @@ environment:
   sdk: '>=2.9.3 <3.0.0'
 
 dependencies:
-  xml: ^4.5.1
+  xml: ^6.0.1
   utility: ^1.0.1
 
 #dev_dependencies:
